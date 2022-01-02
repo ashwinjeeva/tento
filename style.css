@@ -1,0 +1,289 @@
+
+.formstl{
+    border-radius: 10px;
+}
+input{
+    margin-bottom: 10px;
+    border-radius: 10px;
+    height: 30px !important;
+
+  
+}
+
+
+.maintitle{
+    font-size: 50px;
+}
+
+.subbtn:hover,
+.subbtn:active,
+.subbtn:visited,
+.subbtn:focus {
+  background-color:rgb(52, 12, 161)  !important;
+  border-color: rgb(52, 12, 161) !important;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.subbtn{
+    color: rgb(52, 12, 161);
+    border-color: rgb(52, 12, 161);
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px !important;
+}
+
+.toppart{
+    background-image: url("/images/pexels-ray-piedra-1565982\ \(1\).jpg");
+    
+  background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+
+.formcard{
+    margin-bottom: 10px;
+border-radius: 15px;
+padding-right: 20px;
+padding-left: 20px;
+
+color: black;
+
+}
+label{
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+.card-color{
+ 
+    color: white
+}
+.cardhr{
+    border-bottom: 3px  solid ;color: white;
+    
+}
+.all-card{
+    border-radius: 20px ;
+    background-color: rgb(52, 12, 161);
+}
+.title{
+    font-size: 30px;
+    margin-left: 5px;
+   
+   
+    font-family:"Poppins-Medium";
+   
+
+}
+@media (min-width: 100px ) and (max-width: 575.99px )  { 
+ .toppart{
+     text-align: center;
+ }
+ .formcard{
+     margin-top: 15px;
+ }
+ .bottom{
+    border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+ 
+   
+    text-align: center !important;  
+    margin-left: 13% !important;
+    margin-right: 13% !important;
+}
+.bottom2{
+    border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+ 
+    width: auto;
+    text-align: center !important;  
+    margin-left: 35% !important;
+    margin-right: 35% !important;
+}
+.bottom3{
+    border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+ 
+    width: auto;
+    text-align: center !important;  
+    margin-left: 27% !important;
+    margin-right: 27% !important;
+}
+
+
+
+}
+@media (min-width: 576px ) and (max-width: 767.99px )  { 
+    .toppart{
+        text-align: center;
+    }
+    .bottom{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 35% !important;
+        margin-right: 35% !important;
+    }
+    .bottom2{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 35% !important;
+        margin-right: 35% !important;
+    }
+    .bottom3{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 27% !important;
+        margin-right: 27% !important;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.99px) {  
+    .toppart{
+        text-align: center;
+    }
+    .bottom{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 35% !important;
+        margin-right: 35% !important;
+    }
+    .bottom2{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 35% !important;
+        margin-right: 35% !important;
+    }
+    .bottom3{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 27% !important;
+        margin-right: 27% !important;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.99px){ 
+    .toppart{
+        text-align: center;
+    }
+    .bottom{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 35% !important;
+        margin-right: 35% !important;
+    }
+    .bottom2{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 35% !important;
+        margin-right: 35% !important;
+    }
+    .bottom3{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 27% !important;
+        margin-right: 27% !important;
+    }   
+}
+
+
+@media (min-width: 1200px) { 
+    .toppart{
+        text-align: center;
+    }
+    .bottom{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 35% !important;
+        margin-right: 35% !important;
+    }
+    .bottom2{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 35% !important;
+        margin-right: 35% !important;
+    }
+    .bottom3{
+        border-bottom: 2px  solid ;color: rgb(52, 12, 161) ;
+     
+        width: auto;
+        text-align: center !important;  
+        margin-left: 27% !important;
+        margin-right: 27% !important;
+    }
+      
+}
+.icon{
+font-size: 30px;
+}
+.footer{
+    background-color: rgba(202, 202, 202, 0.63);
+    color: rgb(52, 12, 161);
+}
+.footer-head{
+color: rgba(0, 0, 0, 0.986);
+}
+.bottom4{
+color:rgb(52, 12, 161);;
+}
+.card{
+   margin-bottom: 20px;
+   border-radius: 10px;
+}
+.hr{
+    color: rgb(52, 12, 161);
+}
+.bi-x-circle-fill{
+    color: rgb(192, 4, 4);
+}
+.bi-check-circle-fill{
+color: green;
+}
+
+
+
+.bi-check-circle-fill{
+    color: rgb(52, 12, 161);
+}
+.card-title{
+    color: rgb(52, 12, 161);
+}
+.price{
+    color: rgb(52, 12, 161);
+}
+
+.allfeaturestitle{
+    color: rgb(52, 12, 161);
+}
+.impo{
+    color: rgb(52, 12, 161);
+}
+.card-border{
+    border-color: rgb(52, 12, 161);
+}
+.allfeaturesimage{
+    height: 230px;
+    width: 220px;
+}
